@@ -1,0 +1,7 @@
+# Changes here will be overwritten by Copier
+_src_path: /tmp/template
+host: github.com
+owner: super-awesome-org
+projectName: test-repo-1231
+pythonVersion: 3
+repo: test-repo-1231
